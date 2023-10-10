@@ -1,7 +1,19 @@
 body {
-  background-color: #161B22;
+  background-color: #0D1117;
   margin: 0 auto;
   padding: 30px;
   font-family: Arial;
   color: #f3f3f3;
 }
+
+.app {
+  background-color: #161B22;
+  width: 100%;
+  height: 500px;
+}
+/* .card {
+  margin: 0 auto;
+  background-color: #161B22;
+  padding: 20px 30px;
+  border-radius: 10px;
+} */
